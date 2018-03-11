@@ -10,7 +10,7 @@ public class SomaDeImpares
     {
        Scanner valor = new Scanner(System.in);
       
-       System.out.println("Digite de o n° inicial e o n° final para a soma dos ímpares");
+       System.out.println("Digite o n° inicial e o n° final para a soma dos ímpares");
        
        int soma =0;
        System.out.println("N° inicial");
